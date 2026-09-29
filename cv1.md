@@ -8,7 +8,7 @@
 - jednotlivé pokusy
 - naměřené časy
 - výsledky a pořadí
-- případně penalizace, DNF a DNS
+- případně penalizace DNF a extra čas
 
 ## JAK?
 **Jaké procesy se s informacemi provádějí?**
@@ -17,7 +17,7 @@
 - vytvoření soutěže a jejích disciplín
 - vytvoření jednotlivých kol
 - zadávání výsledků jednotlivých pokusů
-- evidence penalizací, DNF a DNS
+- evidence penalizací, DNF a extra času
 - výpočet výsledku soutěžícího v daném kole
 - sestavení pořadí
 - určení postupujících do dalšího kola
@@ -25,10 +25,9 @@
 ## KDE?
 **Na jakých místech se s informacemi pracuje?**
 
-- na místě konání speedcubingové soutěže
-- u jednotlivých soutěžních stanovišť
+- na místě konání soutěže
+- u jednotlivých stanovišť
 - u registračního nebo organizačního stanoviště
-- prostřednictvím webové aplikace informačního systému
 
 ## KDO?
 **Kdo se systémem pracuje a v jaké roli?**
@@ -52,12 +51,12 @@
 ## PROČ?
 **Jaké jsou cíle systému a pravidla jejich dosažení?**
 
-Cílem systému je **spolehlivě evidovat průběh speedcubingové soutěže a její výsledky**, omezit chyby při ručním zpracování dat a umožnit rychlé vytvoření výsledků a pořadí.
+Cílem je spolehlivě evidovat průběh speedcubingové soutěže a její výsledky a umožnit rychlé vytvoření výsledků a pořadí.
 
 Systém musí například zajistit, že:
 
-- každý pokus je přiřazen správnému soutěžícímu, disciplíně a kolu,
-- výsledky jsou vyhodnocovány podle stanovených pravidel,
-- z jednotlivých pokusů lze vypočítat výsledný čas nebo průměr,
-- pořadí soutěžících je určeno na základě dosažených výsledků,
-- do dalšího kola postupují pouze soutěžící splňující stanovené podmínky.
+- každý pokus je přiřazen správnému soutěžícímu, disciplíně a kolu
+- výsledky jsou vyhodnocovány podle stanovených pravidel
+- z jednotlivých pokusů lze vypočítat výsledný čas nebo průměr
+- pořadí soutěžících je určeno na základě dosažených výsledků
+- do dalšího kola postupují pouze soutěžící splňující stanovené podmínky
