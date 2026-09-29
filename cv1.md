@@ -1,4 +1,11 @@
+# VIS: Vize projektu
+
+Evidence pro Speedcubing soutěže
+
+Filip Štegner | STE0610
+
 ## CO?
+
 **Jaká data systém eviduje?**
 
 - soutěže
@@ -11,6 +18,7 @@
 - případně penalizace DNF a extra čas
 
 ## JAK?
+
 **Jaké procesy se s informacemi provádějí?**
 
 - registrace soutěžících na soutěž a jednotlivé disciplíny
@@ -23,6 +31,7 @@
 - určení postupujících do dalšího kola
 
 ## KDE?
+
 **Na jakých místech se s informacemi pracuje?**
 
 - na místě konání soutěže
@@ -30,6 +39,7 @@
 - u registračního nebo organizačního stanoviště
 
 ## KDO?
+
 **Kdo se systémem pracuje a v jaké roli?**
 
 - **soutěžící** – registruje se do soutěže a sleduje své výsledky
@@ -38,6 +48,7 @@
 - **organizátor / administrátor** – spravuje soutěž, disciplíny, kola, účastníky a výsledky
 
 ## KDY?
+
 **Kdy a na základě jakých událostí se s informacemi pracuje?**
 
 - při vytvoření nové soutěže
@@ -49,6 +60,7 @@
 - po skončení soutěže při zveřejnění konečných výsledků
 
 ## PROČ?
+
 **Jaké jsou cíle systému a pravidla jejich dosažení?**
 
 Cílem je spolehlivě evidovat průběh speedcubingové soutěže a její výsledky a umožnit rychlé vytvoření výsledků a pořadí.
